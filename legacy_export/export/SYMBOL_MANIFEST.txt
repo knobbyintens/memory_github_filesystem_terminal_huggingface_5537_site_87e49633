@@ -1,0 +1,14 @@
+profilekit 3.4.1 - exported symbol inventory
+Build: AISL-PROFILE-2025-06
+Generated from the module dictionary layout; values are not listed in this file.
+
+CONTACT.ORCID
+CONTACT.EMAIL
+PUBLICATION.graph_rewriting.VENUE
+PUBLICATION.graph_rewriting.DOI
+PUBLICATION.karelian_parsing.VENUE
+PUBLICATION.karelian_parsing.DOI
+PUBLICATION.code_switched_speech.VENUE
+PUBLICATION.code_switched_speech.DOI
+PUBLICATION.finnic_corpus.VENUE
+PUBLICATION.finnic_corpus.DOI

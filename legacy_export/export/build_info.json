@@ -1,0 +1,10 @@
+{
+  "module": "profilekit",
+  "version": "3.4.1",
+  "cython_version": "3.0.11",
+  "python_version": "3.11.9",
+  "built_at": "2025-06-14T09:22:41Z",
+  "source_file": "profilekit.py",
+  "export_id": "AISL-PROFILE-2025-06",
+  "note": "Source file removed from version control after database decommissioning."
+}
