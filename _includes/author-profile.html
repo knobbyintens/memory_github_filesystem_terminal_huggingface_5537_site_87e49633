@@ -1,0 +1,6 @@
+<div class="author-profile">
+  <h2>{{ site.author.name }}</h2>
+  <p>{{ site.author.bio }}</p>
+  <p>{{ site.author.employer }}</p>
+  {% if site.author.email %}<p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>{% endif %}
+</div>
