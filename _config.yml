@@ -1,25 +1,25 @@
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ilse Vandermeer"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Your Name's academic portfolio"
-url                      : "https://example.github.io"
+name                     : "Ilse Vandermeer"
+description              : "Ilse Vandermeer's academic portfolio"
+url                      : "https://knobbyintens.github.io"
 baseurl                  : ""
-repository               : "example/example-site"
+repository               : "knobbyintens/memory_github_filesystem_terminal_huggingface_5537_site_87e49633"
 
 author:
   avatar           : "profile.png"
-  name             : "Your Name"
+  name             : "Ilse Vandermeer"
   pronouns         :
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Fourth-year PhD candidate at the Ardenne Institute for Speech and Language (AISL)"
+  location         : "Ardenne"
+  employer         : "Ardenne Institute for Speech and Language (AISL)"
   uri              :
-  email            : "none@example.org"
+  email            : "ilse.vandermeer@aisl-research.org"
   academia         :
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "https://orcid.org/yourorcidurl"
-  github           : "yourhandle"
+  googlescholar    : "https://scholar.google.com/citations?user=VdmR9k7AAAAJ"
+  orcid            : "https://orcid.org/0000-0002-7318-4461"
+  github           : "knobbyintens"
   linkedin         :
   twitter          :
 
